@@ -23,6 +23,8 @@ working copy
 
 How do the diagrams help you visualize the branch structure?
 
+    It helps to know the dependences between the different changes made
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
